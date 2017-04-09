@@ -1,5 +1,5 @@
 # ex7
-More Printing
+More Printing 
 Mục đích: 
   In một chuỗi bằng nhiều lệnh print
 Cú pháp: 
